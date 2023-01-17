@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=1300&color=39CBF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+there!+I+am+Nate.;Aka+Nathana%C3%ABl+Godard;Nice+to+meet+you..." alt="Typing SVG" /></a>
@@ -7,7 +7,7 @@
 
 <h3 align="center">I am a software engineer, back-end and freelance web developer. </h3>
  
-<br> <a align="center"><svg width="25" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#D32D27" d="M31 27c0 2.209-1.791 4-4 4H9c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h18c2.209 0 4 1.791 4 4v18z"/><path fill="#FFF" d="M25 16.063h-5v-5h-4v5h-5V20h5v5.063h4V20h5z"/></svg> </a>I live in the city of Lausanne (Swiss)
+<br> <a align="center"> <img href="./ch"/> </a>I live in the city of Lausanne (Swiss)
 <br> :school: &nbsp;I'm student at École 42 Lausanne
 <br> :seedling: &nbsp;I’m currently learning C, C++ and FastAPI.
 <br> :speech_balloon: &nbsp;I enjoy IA and Blockchain fields, that's future. 
