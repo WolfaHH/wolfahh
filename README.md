@@ -7,7 +7,7 @@
 
 <h3 align="center">I am a software engineer, back-end and freelance web developer. </h3>
  
-<br> <a align="center"> <img href="./ch"/> </a>I live in the city of Lausanne (Swiss)
+<br> <a align="center"> <img href="./ch.svg"/> </a>I live in the city of Lausanne (Swiss)
 <br> :school: &nbsp;I'm student at École 42 Lausanne
 <br> :seedling: &nbsp;I’m currently learning C, C++ and FastAPI.
 <br> :speech_balloon: &nbsp;I enjoy IA and Blockchain fields, that's future. 
