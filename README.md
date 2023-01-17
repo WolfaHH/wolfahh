@@ -111,7 +111,7 @@
 </div>
 <div width="100%" align="center">
 
-[![Readme Card](https://fork-readme.vercel.app/api/pin/?username=wolfahh&repo=42-2-push_swap&theme=tokyonight)](https://github.com/WolfaHH/42-2-push_swap)
+[![Readme Card](https://fork-readme.vercel.app/api/pin/?username=wolfahh&repo=piscine-42&theme=tokyonight)](https://github.com/WolfaHH/piscine-42)
 </div>
 <div width="100%" align="center">
 
