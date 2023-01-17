@@ -60,10 +60,6 @@
 <img src="./image/wp.svg"/>
       <br>Webpack
     </td> 
-            <td align="center" width="96">
-<img src="./image/es.svg"/>
-      <br>Elasticsearch
-    </td>
     </tr>
     <tr>        <td align="center" width="96">
 <img src="./image/react.svg"/>
@@ -74,10 +70,7 @@
     </td>        <td align="center" width="96">
 <img src="./image/vue.svg"/>
       <br>Vue
-    </td>        <td align="center" width="96">
-<img src="./image/osef.svg"/>
-      <br>Webpack
-    </td>        <td align="center" width="96">
+      <td align="center" width="96">
 <img src="./image/figma.svg"/>
       <br>Figma
     </td>        <td align="center" width="96">
