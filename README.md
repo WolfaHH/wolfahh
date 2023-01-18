@@ -11,7 +11,7 @@
 <br> :school: &nbsp;I'm student at École 42 Lausanne
 <br> :seedling: &nbsp;I’m currently learning C, C++ and FastAPI.
 <br> :speech_balloon: &nbsp;I enjoy IA and Blockchain fields, that's future. 
-<br> :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/WolfaH">**[LinkedIn]**</a> or <a href="mailto: godard.nathanael@gmail.com">godard.nathanael@gmail.com</a>
+<br> :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/WolfaH">LinkedIn</a> or <a href="mailto: godard.nathanael@gmail.com">godard.nathanael@gmail.com</a>
 </div>
 
 <br>
